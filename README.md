@@ -27,6 +27,12 @@ A simulated healthcare scenario exploring Amazon S3 security controls, encryptio
 
 🔗 [View Project](https://github.com/b-wendo/pulsehealth-s3-data-protection)
 
+### 3. Phishing Email Investigation & Incident Response
+
+A simulated SOC investigation demonstrating phishing email triage, severity assessment, identification of suspicious email indicators, incident timeline documentation, evidence requirements, and recommended response actions.
+
+[View Project](https://github.com/b-wendo/phishing-email-investigation)
+
 *More projects across security operations, threat detection, cyber risk, GRC, and other cybersecurity domains will be added as I continue building my portfolio.*
 
 ## 💻 Areas of Focus
